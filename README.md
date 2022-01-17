@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I went on to code for 72 hours for a project without sleep.**
 
-<h3 Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mekoramas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mekoramas" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/adityaaravind" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityaaravind" height="30" width="40" /></a>
