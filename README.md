@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://github.com/adityaaravind/Proof-of-work.git](https://github.com/adityaaravind/Proof-of-work.git)
 
-- ⚡ Fun fact **I went on to code for 72 hours for a project without sleep.**
+- ⚡ Fun fact **I went on to code for 36 hours for a project without sleep.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
