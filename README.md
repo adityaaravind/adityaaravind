@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaaravind&label=Profile%20views&color=0e75b6&style=flat" alt="adityaaravind" /> </p>
 
-- 🔭 I’m currently working on [Decentralized Blockchain](https://github.com/adityaaravind/Block-Syndicate-.git)
+- 🔭 I’m currently working on [Decentralized Blockchain, Agentic AI, Cybersecurity](https://github.com/adityaaravind/Block-Syndicate-.git)
 
 - 🌱 I’m currently learning **Frameworks and AI**
 
