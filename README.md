@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **adityaaravind.m@gmail.com**
 
--📫 Portfolio Website -  https://adityaaravind.netlify.app/
+-📫 Portfolio Website -  https://adityamedepalli.netlify.app/
 
 - 📄 Know about my experiences [https://github.com/adityaaravind/Proof-of-work.git](https://github.com/adityaaravind/Proof-of-work.git)
 
