@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Blockchain, Dapp, De-fi and Web development.**
 
-- 📫 How to reach me **adityaaravind.m@gmail.com**
+- 📫 How to reach me **adityamedepalli@outlook.com**
 
 -📫 Portfolio Website -  https://adityamedepalli.netlify.app/
 
